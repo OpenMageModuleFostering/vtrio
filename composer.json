@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Vtrio",
+    "name": "OpenMageModuleFostering\/Vtrio",
     "type": "magento-module",
     "license": "MITL",
     "homepage": "",
     "description": "VReport is a module which will help users to generate sales report in a more user friendly way. User could run reports based on  Category ,Sub-Category  and Time.",
     "authors": [
-    {
-        "name": "Developer",
-        "email": "dev@vtrio.com"
-    }
-],
+        {
+            "name": "Developer",
+            "email": "dev@vtrio.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
